@@ -1,0 +1,10 @@
+Assembly
+========
+
+Requirement:
+
+1. Unix system
+2. nasm : assembly compiler
+3. gcc  : C compiler
+4. make : build system
+5. gdb + gef : debugger

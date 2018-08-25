@@ -1,0 +1,7 @@
+Usage 
+-----
+
+$ make cc
+$ ls *.out
+$ ./hello.out
+$ gdb -q hello.out
